@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body{
+    width:400px;
+    margin:0 auto;
+}
+body{background-color:#f2ebd7;}
+
+h1{
+    text-align : center }
+
+
+.MYMP img{width: 350px;
+    }
+.MYMP{text-align : center }
+
+.YADOTP img{width: 350px;}
+.YADOTP {text-align : center}
+
+.GARTNP img{width: 350px;}
+.GARTNP {text-align : center}
+
+.a:link{color:#00f;}
+.a:visited{color:#aaa;}
+.a:hover{color:#e00a44;}
