@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body{
+    width:800px;
+    margin:0 auto;
+}
+
+h1{
+    width: 290px;
+    margin-left: auto;
+    margin-right: auto;}
+
+
+.GRTP{width: 800px;
+    margin-left: auto;
+    margin-right: auto;}
+
+    h2{background-color: antiquewhite;}
+
+
+
+
+.a:link{color:#00f;}
+.a:visited{color:#aaa;}
+.a:hover{color:#e00a44;}
